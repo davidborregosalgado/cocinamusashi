@@ -1,0 +1,1 @@
+{"version":3,"sources":["saludo.js"],"names":["saludo","alert","window","onload"],"mappings":";AAAA,SAASA,IAASC,MAAM,uCAExBC,OAAOC,OAASH","file":"saludo.c2aca8df.js","sourceRoot":"..","sourcesContent":["function saludo(){alert('¡Bienvenido a La cocina de Musashi!');}\n\nwindow.onload = saludo;\n"]}

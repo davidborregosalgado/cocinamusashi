@@ -1,0 +1,1 @@
+{"version":3,"sources":["saludo2.js"],"names":["saludo2","alert","window","onload"],"mappings":";AAAA,SAASA,IAAWC,MAAM,sDAE1BC,OAAOC,OAASH","file":"saludo2.cb66bd85.js","sourceRoot":"..","sourcesContent":["function saludo2(){ alert('¡Prepárate a conocer la auténtica comida japonesa!');}\n\nwindow.onload = saludo2;\n"]}
